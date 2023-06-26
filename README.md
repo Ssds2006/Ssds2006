@@ -15,8 +15,8 @@
 
  <div>
    <a href= "https://github.com/Ssds2006">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" >
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssds2006&show_icons=true&theme=radical" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssds2006&layout=compact&theme=radical" >
    </a>
  </div>
 
