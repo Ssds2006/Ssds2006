@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on tecnológia
 - 🤔 I’m looking for help with codes
 - 💬 Ask me about i know
-- 📫 How to reach me: @teste
+- 📫 How to reach me:
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: formigas bocejam
+- ⚡ Fun fact: 
 
 ##
 
