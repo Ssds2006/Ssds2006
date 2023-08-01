@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 I’m currently working on Movida Aluguel de Veiculos 
-- 🌱 I’m currently learning PHP e MySql  
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Laravel e MVC 
 - 👯 I’m looking to collaborate on tecnológia
 - 🤔 I’m looking for help with codes
 - 💬 Ask me about i know
