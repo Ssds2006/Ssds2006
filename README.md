@@ -2,14 +2,14 @@
 
 ##
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Laravel e MVC 
-- 👯 I’m looking to collaborate on tecnológia
-- 🤔 I’m looking for help with codes
-- 💬 Ask me about i know
-- 📫 How to reach me:
+- 🔭 I’m currently working: as a Back End Developer
+- 🌱 I’m currently learning: Laravel e MVC 
+- 👯 I’m looking to collaborate: on tecnológia
+- 🤔 I’m looking for help: with codes
+- 💬 Ask me about: i know
+- 📫 How to reach me: https://www.linkedin.com/in/sara-santos-a97565176/
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: 
+- ⚡ Fun fact: One Piece exist
 
 ##
 
