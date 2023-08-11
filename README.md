@@ -9,7 +9,7 @@
 - 💬 Ask me about: i know
 - 📫 How to reach me: https://www.linkedin.com/in/sara-santos-a97565176/
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: One Piece exist!
+- ⚡ Fun fact: One Piece exist !
 
 ##
 
