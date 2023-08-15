@@ -15,8 +15,8 @@
 
  <div>
    <a href= "https://github.com/Ssds2006">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssds2006&show_icons=true&theme=radical" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssds2006&layout=compact&theme=radical" >
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ssds2006&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssds2006&layout=compact&theme=radical">
    </a>
  </div>
 
@@ -43,7 +43,7 @@
   <a href= "https://www.linkedin.com/in/sara-santos-a97565176/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="">
+  <a href="ssds2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
