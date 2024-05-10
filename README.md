@@ -2,8 +2,6 @@
 
 ##
 
-- 🔭 I’m currently working: as a Back End Developer
-- 🌱 I’m currently learning: Laravel e MVC 
 - 👯 I’m looking to collaborate: on tecnológia
 - 🤔 I’m looking for help: with codes
 - 💬 Ask me about: i know
